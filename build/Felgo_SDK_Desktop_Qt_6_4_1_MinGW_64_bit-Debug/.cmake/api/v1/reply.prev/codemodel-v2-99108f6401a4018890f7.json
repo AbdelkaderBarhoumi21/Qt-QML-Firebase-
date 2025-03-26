@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ef72cd09f8e1601b7fb7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "firebaseApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_other_files-Debug-2173a8f07cc1a74b571e.json",
+					"name" : "Felgo_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1-Debug-b12850c16dbc0c71cfa7.json",
+					"name" : "Felgo_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1_autogen-Debug-fe48f1ba24177ff3cd4b.json",
+					"name" : "Felgo_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1_autogen_timestamp_deps-Debug-8180fbfb468972fbbbc1.json",
+					"name" : "Felgo_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-653097cf0c7efabcc76d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2eb05d3eda6295d8c8f2.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-0a75045283333b648e3a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp-Debug-b730cdb882590ade96b1.json",
+					"name" : "appfirebaseApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_autogen-Debug-829eae81374061129a3c.json",
+					"name" : "appfirebaseApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_autogen_timestamp_deps-Debug-cf7d29e05006afc0db3f.json",
+					"name" : "appfirebaseApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_other_files-Debug-2fc6e2571e1f3a2c8953.json",
+					"name" : "appfirebaseApp_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_qmlimportscan-Debug-62df20260b8f9d396b16.json",
+					"name" : "appfirebaseApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_qmllint-Debug-bd581edd489800649a2a.json",
+					"name" : "appfirebaseApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_qmllint_json-Debug-e499e9ea808719717561.json",
+					"name" : "appfirebaseApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_qmltyperegistration-Debug-aff9707f86d95c517a28.json",
+					"name" : "appfirebaseApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appfirebaseApp_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appfirebaseApp_tooling-Debug-ba2f646b0c48bb4f9916.json",
+					"name" : "appfirebaseApp_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/abdel/Documents/qt_project/firebaseApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/LoginPage.qml">C:/Users/abdel/Documents/qt_project/firebaseApp/qml/LoginPage.qml</file>
+    <file alias="qml/MasterPage.qml">C:/Users/abdel/Documents/qt_project/firebaseApp/qml/MasterPage.qml</file>
+    <file alias="qml/DetailPage.qml">C:/Users/abdel/Documents/qt_project/firebaseApp/qml/DetailPage.qml</file>
+    <file alias="qml/PluginMainItem.qml">C:/Users/abdel/Documents/qt_project/firebaseApp/qml/PluginMainItem.qml</file>
+  </qresource>
+</RCC>
+

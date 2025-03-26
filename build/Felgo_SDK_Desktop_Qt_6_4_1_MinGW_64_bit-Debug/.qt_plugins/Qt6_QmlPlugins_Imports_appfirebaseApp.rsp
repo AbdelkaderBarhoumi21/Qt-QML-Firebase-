@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/abdel/Documents/qt_project/firebaseApp
+-cmake-output
+-output-file
+C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appfirebaseApp.cmake
+-importPath
+C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/firebaseApp
+-importPath
+C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_firebaseApp.qrc
+C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_firebaseApp_copy.qrc
+C:/Users/abdel/Documents/qt_project/firebaseApp/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appfirebaseApp_raw_qml_0.qrc

@@ -1,0 +1,8 @@
+module firebaseApp
+typeinfo appfirebaseApp.qmltypes
+prefer :/
+LoginPage 1.0 qml/LoginPage.qml
+MasterPage 1.0 qml/MasterPage.qml
+DetailPage 1.0 qml/DetailPage.qml
+PluginMainItem 1.0 qml/PluginMainItem.qml
+

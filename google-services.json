@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "51121889931",
+    "firebase_url": "https://felgo-c3b90-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "felgo-c3b90",
+    "storage_bucket": "felgo-c3b90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51121889931:android:34fd7dab9be7c0c1e1aa8e",
+        "android_client_info": {
+          "package_name": "com.FirebaseApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS3XzbEzTIpH2-g0mX2vwRhDDLdARB998"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
